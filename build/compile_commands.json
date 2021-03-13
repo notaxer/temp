@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/xer/Documents/projects/gnome-builder/capp/build",
+    "command": "cc -Ioutput.p -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -MD -MQ output.p/main.c.o -MF output.p/main.c.o.d -o output.p/main.c.o -c ../main.c",
+    "file": "../main.c",
+    "output": "output.p/main.c.o"
+  }
+]
